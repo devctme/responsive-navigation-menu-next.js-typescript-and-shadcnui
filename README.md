@@ -354,9 +354,9 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See MIT for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 <!-- CONTACT -->
 
