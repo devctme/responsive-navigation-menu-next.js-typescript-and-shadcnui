@@ -48,7 +48,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://nextjsandshadcnui.vercel.app)
+[![Navigation Menu][product-screenshot]](https://nextjsandshadcnui.vercel.app)
 
 <img  src="https://i.ibb.co/52XNX51/dextop.png" alt="devctbd" width="100%" height="auto" />
 
