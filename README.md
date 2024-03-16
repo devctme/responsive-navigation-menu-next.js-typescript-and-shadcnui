@@ -74,7 +74,7 @@
 
 <img  src="https://i.ibb.co/52XNX51/dextop.png" alt="devctbd" width="100%" height="auto" />
 
-Use the `BLANK_README.md` to get started.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,16 +84,13 @@ This section should list any major frameworks/libraries used to bootstrap your p
 
 - [![Next][Next.js]][Next-url]
 - [![React][React.js]][React-url]
-- [![Tailwindcss][tailwind]][tailwindcss-url]
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
